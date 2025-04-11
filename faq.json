@@ -40,19 +40,19 @@
                 "image": "https://github.com/Xemul032/Axiom/blob/main/logo_newyear1.png?raw=true"
             }
         ]
-    }
+    },
     {
         "category": "Видео",
         "questions": [
             {
                 "question": "Посмотрим рутуб?",
                 "answer": "Конечно посмотрим!",
-                "video":"https://rutube.ru/video/8cb4f51c9e7314e6ece35acfe591025d/"
+                "video": "https://rutube.ru/video/8cb4f51c9e7314e6ece35acfe591025d/"
             },
             {
                 "question": "ПЧК?",
                 "answer": "Да, давай",
-                "video": "https://rutube.ru/video/c025f760790c1ab83429d67c96377ec9/?r=plwd"
+                "video": "https://rutube.ru/video/c025f760790c1ab83429d67c96377ec9/"
             }
         ]
     }
