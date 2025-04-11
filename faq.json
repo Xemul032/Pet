@@ -9,7 +9,7 @@
             {
                 "question": "Как выглядит интерфейс платформы?",
                 "answer": "Вот скриншот интерфейса:",
-                "image": "https://i.timeout.ru/pix/486840.jpeg"
+                "image": "https://raw.githubusercontent.com/Xemul032/Axiom/refs/heads/main/logo.png"
             }
         ]
     },
@@ -23,7 +23,7 @@
             {
                 "question": "Где найти логи ошибок?",
                 "answer": "Логи ошибок можно найти в папке logs. Вот пример файла логов:",
-                "image": "https://s0.rbk.ru/v6_top_pics/media/img/1/99/346911440880991.webp"
+                "image": "https://raw.githubusercontent.com/Xemul032/Axiom/refs/heads/main/logo.png"
             }
         ]
     },
