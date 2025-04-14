@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Общие вопросы",
+        "url": "https://github.com/Xemul032/Pet/raw/refs/heads/main/general.json"
+    },
+    {
+        "name": "Обучение",
+        "url": "https://github.com/Xemul032/Pet/raw/refs/heads/main/education.json"
+    },
+    {
+        "name": "Вопросы по заказам",
+        "url": "https://github.com/Xemul032/Pet/raw/refs/heads/main/orders.json"
+    },
+    {
+        "name": "Вопросы по клиентам",
+        "url": "https://github.com/Xemul032/Pet/raw/refs/heads/main/clients.json"
+    },
+    {
+        "name": "Каталоги",
+        "url": "https://github.com/Xemul032/Pet/raw/refs/heads/main/catalogs.json"
+    },
+    {
+        "name": "Видео",
+        "url": "https://github.com/Xemul032/Pet/raw/refs/heads/main/videos.json"
+    }
+]
